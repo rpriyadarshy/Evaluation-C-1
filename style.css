@@ -1,0 +1,39 @@
+fieldset{
+    width: 100%;
+    background: lightseagreen;
+    box-shadow: box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;;
+    border: 1px solid grey;
+    margin: 0px;
+    padding: 12px;
+    text-align: center;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+}
+
+legend{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+
+footer {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding: 25px;
+    background-color: #abbaba;
+    color: #000;
+  }
+
+#container {
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
+}
+
